@@ -1,0 +1,17 @@
+This is the path on Mac
+
+Users/yourusername/Documents/Steinberg/Padshop/Samples
+
+Note from Steinberg Forum re Windows 7
+
+To install for Windows 7-users that has installed Padshop Pro with the default path settings:
+
+Place the PRESET-folder here:
+C:\Users\%USERNAME%\Documents\VST3 Presets\Steinberg Media Technologies\Padshop\
+
+Place the SAMPLES-folder here:
+C:\Users\%USERNAME%\Documents\Steinberg\Padshop\Samples\
+
+(notice that Windows shows the "Documents" folder as "My Documents" when using Explorer or GUI).
+
+NB User folders for Padshop are only created if you have already saved a preset before. So if you have never created your own preset before, using your own wav's/samples, the folders will not exist. You have to create a preset with a new wav/sample manually, before copying/moving the above folders (or you could just add the samples folder manually)
